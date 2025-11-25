@@ -1,0 +1,1 @@
+Por visualizacion, se guardan los datos en el carpeta Codigo/Datos/, pero el script de python asume que los datos estan en la misma carpeta donde esta el script. Se debe tener esto en cuenta a la hora de correr el codigo, o cambiar el path dentro del script para encontrar los datos necesarios
